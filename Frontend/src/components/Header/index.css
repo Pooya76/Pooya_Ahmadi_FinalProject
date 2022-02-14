@@ -1,0 +1,13 @@
+
+#redirections a {
+    background-color: rgb(185, 205, 248);
+    margin: 0px 10px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+#redirections{
+    display: flex;
+	justify-content: center;
+    background-color: rgb(86, 145, 223);
+}

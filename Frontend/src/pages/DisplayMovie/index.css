@@ -1,0 +1,38 @@
+.movie_container{
+    background-color: rgb(140, 205, 231);
+    width: 300px;
+    margin-bottom: 50px;
+}
+
+#movie_page{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+#movie_page2{
+    flex-direction: column;
+    margin-left: 40%;
+
+}
+
+#poster{
+    height: 450px;
+    width: 300px;
+}
+
+#title{
+    text-align: center;
+}
+
+#year{
+    text-align: center;
+}
+
+#description{
+    text-align: center;
+}
+.buttons{
+    margin-left: 25%;
+}

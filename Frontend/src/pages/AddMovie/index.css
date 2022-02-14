@@ -1,0 +1,12 @@
+#insertForm{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    flex-direction: column;
+    width: 50%;
+}
+
+#description_input{
+    padding-bottom: 100px;
+    text-align: left;
+}
